@@ -72,9 +72,9 @@ Furthermore, Tauri's seamless integration with modern web technologies like Svel
 The experience demonstrated how Tauri and Rust can be powerful tools for projects requiring both security and an appealing user experience, striking a balance between backend reliability and frontend flexibility.
 
 ## Demo
-![Logo](https://images2.imgbox.com/5a/47/GtK4qqxF_o.gif)
-![Logo](https://images2.imgbox.com/28/fd/PA2rCuVu_o.gif)
-![Logo](https://images2.imgbox.com/1e/30/J91g0Z2J_o.gif)
+![Logo](https://images2.imgbox.com/f2/69/iay3Jvb0_o.gif)
+![Logo](https://images2.imgbox.com/72/1b/dBUYRk2E_o.gif)
+![Logo](https://images2.imgbox.com/f7/dc/w2ZQO4rx_o.gif)
 
 Download the latest build from the Release section to test the software for yourself.
 
