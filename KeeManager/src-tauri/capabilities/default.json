@@ -1,0 +1,27 @@
+{
+  "$schema": "../gen/schemas/desktop-schema.json",
+  "identifier": "default",
+  "description": "Capability for the main window",
+  "windows": [
+    "main"
+  ],
+  "permissions": [
+    "core:path:default",
+    "core:event:default",
+    "core:window:default",
+    "core:window:allow-center",
+    "core:window:allow-set-size",
+    "core:window:allow-set-maximizable",
+    "core:window:allow-set-resizable",
+    "core:window:allow-set-min-size",
+    "core:app:default",
+    "core:image:default",
+    "core:resources:default",
+    "core:menu:default",
+    "core:tray:default",
+    "shell:allow-open",
+    "dialog:default",
+    "clipboard-manager:default",
+    "clipboard-manager:allow-write-text"
+  ]
+}

@@ -1,0 +1,27 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+@import "flowbite/dist/flowbite.css";
+
+/* To stop the edge browser auto-generated show/hide button */
+input[type="password"]::-ms-reveal {
+  display: none;
+}
+
+input[type="password"]::-webkit-inner-spin-button,
+input[type="password"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="password"]::-webkit-search-clear-button {
+  display: none;
+}
+
+.draggable {
+  @apply app-region-drag;
+}
+
+.no-drag {
+  @apply app-region-no-drag;
+}

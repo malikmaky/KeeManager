@@ -1,0 +1,42 @@
+{
+  "productName": "KeeManager",
+  "version": "0.0.0",
+  "identifier": "com.MalikMuhammed.dev",
+  "build": {
+    "beforeDevCommand": "npm run dev",
+    "devUrl": "http://localhost:1420",
+    "beforeBuildCommand": "npm run build",
+    "frontendDist": "../build"
+  },
+  "app": {
+    "windows": [
+      {
+        "title": "KeeManager Project",
+        "transparent": true,
+        "width": 400,
+        "minWidth": 400,
+        "height": 600,
+        "center": true,
+        "minHeight": 600,
+        "resizable": false,
+        "decorations": false,
+        "shadow": false,
+        "dragDropEnabled": false
+      }
+    ],
+    "security": {
+      "csp": null
+    }
+  },
+  "bundle": {
+    "active": true,
+    "targets": "all",
+    "icon": [
+      "icons/32x32.png",
+      "icons/128x128.png",
+      "icons/128x128@2x.png",
+      "icons/icon.icns",
+      "icons/icon.ico"
+    ]
+  }
+}
