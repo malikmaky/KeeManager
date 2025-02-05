@@ -76,7 +76,7 @@ The experience demonstrated how Tauri and Rust can be powerful tools for project
 ![Logo](https://images2.imgbox.com/72/1b/dBUYRk2E_o.gif)
 ![Logo](https://images2.imgbox.com/f7/dc/w2ZQO4rx_o.gif)
 
-Download the latest build from the Release section to test the software for yourself.
+Download the latest build from the Release section/folder to use/test the software.
 
 
 ## Credits
